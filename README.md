@@ -1,4 +1,4 @@
-Here's a GitHub description for your Blogify application:
+
 
 ---
 
@@ -33,4 +33,3 @@ To get started with Blogify, clone the repository and follow the installation in
 
 ---
 
-Feel free to adjust the description to better fit your project's specifics and style.
